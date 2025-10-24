@@ -16,14 +16,6 @@ ninja -v
 ```
 
 ## Run
-```
-# C++23 Modules — Hello World
-
-A minimal working example of **C++23 modules** built with **GCC 15.2**, **CMake 3.28**, and **Ninja 1.13**.
-No headers. No includes. Just `import foo;` and run.
-
-
-## Build
 
 ```
 ./hello
