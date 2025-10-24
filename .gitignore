@@ -1,0 +1,59 @@
+# -------------------------
+# Build Artifacts
+# -------------------------
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+*.ninja
+*.log
+
+# -------------------------
+# Compiled Objects / Libs
+# -------------------------
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.pdb
+*.mod
+*.gcm
+*.gcm.cache/
+
+# -------------------------
+# Generated Directories
+# -------------------------
+/CMakeUserPresets.json
+/gcm.cache/
+/*.dir/
+
+# -------------------------
+# IDE / Editor Files
+# -------------------------
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# -------------------------
+# OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# Misc
+# -------------------------
+*.swp
+*.swo
+*.tmp
+*.bak
