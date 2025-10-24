@@ -1,11 +1,11 @@
-# 🧠 C++23 Modules — Hello World
+# C++23 Modules — Hello World
 
 A minimal working example of **C++23 modules** built with **GCC 15.2**, **CMake 3.28**, and **Ninja 1.13**.
 No headers. No includes. Just `import foo;` and run.
 
----
+Source article: https://www.kitware.com/import-cmake-the-experiment-is-over/
 
-## 🔧 Build
+## Build
 
 ```bash
 # Configure and build
@@ -22,7 +22,6 @@ ninja -v
 A minimal working example of **C++23 modules** built with **GCC 15.2**, **CMake 3.28**, and **Ninja 1.13**.
 No headers. No includes. Just `import foo;` and run.
 
----
 
 ## Build
 
