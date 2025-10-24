@@ -22,6 +22,6 @@ ninja -v
 ```
 
 ## Tollchain used
-|CMake|3.28.3|
-|Ninja|1.13.1|
-|GCC|15.2.0|
+- CMake: 3.28.3
+- Ninja: 1.13.1
+- GCC: 15.2.0
