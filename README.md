@@ -21,7 +21,11 @@ ninja -v
 ./hello
 ```
 
-## Tollchain used
+## Toolchain used
 - CMake: 3.28.3
 - Ninja: 1.13.1
 - GCC: 15.2.0
+
+## Expected output
+<img width="1550" height="741" alt="image" src="https://github.com/user-attachments/assets/a1e50a13-65e4-4d3b-99e2-27929ccc34e6" />
+
