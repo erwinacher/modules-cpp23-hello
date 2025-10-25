@@ -11,7 +11,6 @@ add_subdirectory(module_2)
 add_subdirectory(module_3)
 
 add_library(foo)
-
 target_sources(foo
   PUBLIC
     FILE_SET CXX_MODULES FILES

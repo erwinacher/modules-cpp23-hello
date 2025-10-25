@@ -1,0 +1,10 @@
+CompileFlags:
+  Add: 
+    - -std=c++23
+    - -xc++
+    - -I/usr/local/gcc-15/include/c++/15.2.0
+    - -I/usr/local/gcc-15/include/c++/15.2.0/x86_64-pc-linux-gnu
+    - -I/usr/local/gcc-15/include
+    - -I/usr/local/include
+    - -I/usr/include
+
