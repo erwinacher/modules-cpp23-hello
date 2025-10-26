@@ -1,10 +1,11 @@
+#include <print>
+
 import foo;
 
 import foo_project.module_1;
 import foo_project.module_2;
 import foo_project.module_3;
 
-#include <print>
 
 int main()
 {
@@ -15,7 +16,7 @@ int main()
     say_hello_from_2();
     say_hello_from_3();
 
-    std::println
+    std::print("just calling print here from the standard lib");
 
     return 0;
 }
