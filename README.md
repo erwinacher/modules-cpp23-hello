@@ -17,7 +17,10 @@ ninja -v
 
 ## Run
 
+Note: the export LD_LIBRARY_PATH might not be necessary.
+
 ```
+export LD_LIBRARY_PATH=/usr/local/gcc-15.2/lib:$LD_LIBRARY_PATH 
 ./hello
 ```
 
